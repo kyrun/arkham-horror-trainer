@@ -1,0 +1,16 @@
+{
+"companyName": "Kyrun",
+"productName": "Arkham Horror Trainer v0.1",
+"productVersion": "0.1",
+"dataUrl": "arkham-horror-trainer.data.unityweb",
+"wasmCodeUrl": "arkham-horror-trainer.wasm.code.unityweb",
+"wasmFrameworkUrl": "arkham-horror-trainer.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
